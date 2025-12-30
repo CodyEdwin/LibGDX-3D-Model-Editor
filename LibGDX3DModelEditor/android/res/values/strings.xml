@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">3D Model Editor</string>
+    <string name="copy_prompt">Copy Prompt Template</string>
+    <string name="load_example">Load Example</string>
+    <string name="compile_preview">Compile &amp; Preview</string>
+    <string name="code_hint">Paste your Java code here...</string>
+</resources>
